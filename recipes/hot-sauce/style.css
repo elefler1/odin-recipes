@@ -1,0 +1,48 @@
+body {
+    background: #f0d3b7;
+    box-sizing: border-box;
+    margin: 32px;
+}
+
+*,
+  *::before,
+  *::after {
+    box-sizing: inherit;
+  }
+
+  .title {
+    background-color: #b87d25;
+    padding: 10px;
+    
+  }
+
+li {
+    margin: 10px;
+    padding: 1px;
+}
+
+.button {
+    margin: 5px 0;
+    outline: 2px solid red
+}
+
+button {
+    background-color: antiquewhite;
+    margin: 0 500px;
+    padding: 5px;
+}
+
+.ingredients-box {
+    height: 350px;
+    width: 600px;
+    padding: 10px;
+    outline: 2px solid red
+}
+
+.steps-box {
+    height: 500px;
+    width: 800px;
+    margin: 2px 0;
+    padding: 10px;
+    outline: 2px solid red
+}
